@@ -1,6 +1,6 @@
-[8392:15888:0310/160500.603:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8392:18696:0310/160500.636:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8392:15888:0310/160500.648:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8392:15888:0310/160502.755:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[12144:14532:0310/160504.249:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3EF9CA35E5D5FA32BDD82E6EFABC542A will be ignored
-[8392:15888:0310/173638.627:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[23044:20012:0313/141756.994:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23044:20248:0313/141757.036:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23044:20012:0313/141757.054:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4424:14940:0313/141800.760:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B51F8729ADBAC8C82C66BA2D69146E3B will be ignored
+[5704:15960:0313/154451.430:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[23044:20012:0313/154451.484:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
