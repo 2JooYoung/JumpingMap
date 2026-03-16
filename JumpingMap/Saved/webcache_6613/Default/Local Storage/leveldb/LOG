@@ -1,3 +1,5 @@
-2026/03/16-09:14:10.601 2b30 Reusing MANIFEST C:\Work\JumpingMap\JumpingMap\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/16-09:14:10.613 2b30 Recovering log #3
-2026/03/16-09:14:10.615 2b30 Reusing old log C:\Work\JumpingMap\JumpingMap\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/16-15:20:08.274 52a4 Reusing MANIFEST C:\Work\JumpingMap\JumpingMap\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/16-15:20:08.279 52a4 Recovering log #3
+2026/03/16-15:20:08.280 52a4 Level-0 table #3: started
+2026/03/16-15:20:08.284 52a4 Level-0 table #3: 63751 bytes OK
+2026/03/16-15:20:08.288 52a4 Delete type=0 #3
