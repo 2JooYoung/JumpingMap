@@ -1,3 +1,14 @@
-2026/04/06-16:02:38.935 2c20 Reusing MANIFEST C:\Work\JumpingMap\JumpingMap\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/06-16:02:38.949 2c20 Recovering log #10
-2026/04/06-16:02:38.950 2c20 Reusing old log C:\Work\JumpingMap\JumpingMap\Saved\webcache_6613\Default\Local Storage\leveldb/000010.log 
+2026/04/06-17:38:09.134 3e2c Reusing MANIFEST C:\Work\JumpingMap\JumpingMap\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/06-17:38:09.149 3e2c Recovering log #10
+2026/04/06-17:38:09.151 3e2c Reusing old log C:\Work\JumpingMap\JumpingMap\Saved\webcache_6613\Default\Local Storage\leveldb/000010.log 
+2026/04/06-17:46:20.128 32b8 Level-0 table #13: started
+2026/04/06-17:46:20.133 32b8 Level-0 table #13: 63048 bytes OK
+2026/04/06-17:46:20.135 32b8 Delete type=0 #10
+2026/04/06-17:46:20.137 32b8 Compacting 4@0 + 0@1 files
+2026/04/06-17:46:20.141 32b8 Generated table #14@0: 10 keys, 24807 bytes
+2026/04/06-17:46:20.142 32b8 Compacted 4@0 + 0@1 files => 24807 bytes
+2026/04/06-17:46:20.143 32b8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/06-17:46:20.143 32b8 Delete type=2 #3
+2026/04/06-17:46:20.143 32b8 Delete type=2 #7
+2026/04/06-17:46:20.144 32b8 Delete type=2 #9
+2026/04/06-17:46:20.144 32b8 Delete type=2 #13
